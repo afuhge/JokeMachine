@@ -1,0 +1,26 @@
+.joke-btn:hover {
+  box-shadow: 0 0 10px #fff, 0 0  40px #fff;
+  transition-delay: 0.1s;
+}
+
+.dark-btn:hover {
+  background-color: #155e75;
+  box-shadow: 0 0 10px #155e75, 0 0  40px #155e75;
+  transition-delay: 0.1s;
+}
+
+
+.container {
+  width:650px; /* or whatever width you want. */
+  max-width:650px; /* or whatever width you want. */
+  height:300px;
+  max-height:300px;
+  overflow:auto;
+}
+
+
+.headline {
+  background: -webkit-linear-gradient(75deg, #155E75, #06B6D4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

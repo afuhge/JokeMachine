@@ -1,0 +1,13 @@
+button:hover {
+  background-color:#fff;
+  box-shadow: 0 0 10px #fff, 0 0  40px #fff, 0 0 80px #fff;
+  transition-delay: 0.1s;
+}
+
+.headline {
+  font-size: 72px;
+  background: -webkit-linear-gradient(75deg, #155E75, #06B6D4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
